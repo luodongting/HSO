@@ -6,8 +6,6 @@ This released code is the VO part of HSO based on [SVO](https://github.com/uzh-r
 
 **Video:** https://youtu.be/AchJQ2u8K50  or  https://v.youku.com/v_show/id_XNDgyMjY4ODc4OA
 
-## 0. Advertising
-I am looking for a PhD position. If you think my work and research direction meet the needs of your Lab, please contact me (luo_dt@vip.163.com).
 
 ## 1. Related Publications
 
