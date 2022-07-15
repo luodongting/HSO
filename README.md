@@ -104,7 +104,7 @@ The result will be saved in the *result* folder.
 When the image is taken with a fisheye camera, then fill in "true" in the third line, otherwise "false". Some camera file examples are saved in ./test/cameras.
 
 ## 6. Command Line Argument
-If you use "./bin/test_dataset" to run HSO, there are several commandline options you can use:
+If you use `single_sequence.sh` to run HSO, there are several commandline options you can use:
 
 ### Requried
 - `image=X` where X is the folder containing images.
