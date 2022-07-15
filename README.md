@@ -83,7 +83,7 @@ The result will be saved in the *result* folder.
 
 ## 5. Camera Files Format
 
-### Calibration File for pinhole model
+### Calibration File for Pinhole model
 
 	Pinhole fx fy cx cy k1 k2 p1 p2
 	width height
