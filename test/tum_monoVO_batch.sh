@@ -116,11 +116,11 @@ sequece_num='sequence_14'
 
 
 sequece_num='sequence_15'
-./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt name="$sequece_num"_0 
-#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt name="$sequece_num"_1 
-#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt name="$sequece_num"_2 
-#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt name="$sequece_num"_3 
-#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt name="$sequece_num"_4
+./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt start=20 name="$sequece_num"_0 
+#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt start=20 name="$sequece_num"_1 
+#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt start=20 name="$sequece_num"_2 
+#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt start=20 name="$sequece_num"_3 
+#./../bin/test_dataset image="$pathDatasetTUM"/"$sequece_num"/images calib=./cameras/tum_mono_vo_wide.txt times="$pathDatasetTUM"/"$sequece_num"/times.txt start=20 name="$sequece_num"_4
 
 
 sequece_num='sequence_16'
