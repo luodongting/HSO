@@ -112,7 +112,7 @@ If you use `single_sequence.sh` to run HSO, there are several commandline option
 - `calib=X` where X is the geometric camera calibration file.
 
 ### Optional 
-- `start=X`: Start at frame X. The default is 0. HSO’s monocular initialization is weak. When the initialization fails, we recommend skipping some beginning frames (e.g., start=450 in MH04).
+- `start=X`: Start at frame X. The default is 0. HSO’s monocular initialization is weak. When the initialization fails or there is a problem with the initial scale, we recommend skipping some beginning frames (e.g., start=450 in MH04).
 
 - `end=X`  : End at frame X. The default is the number of the images the folder contains.
 
