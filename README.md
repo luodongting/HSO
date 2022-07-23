@@ -12,7 +12,7 @@ I am looking for a PhD position. If you think my work and research direction mee
 
 ## 1. Related Publications
 
-* Dongting Luo, Yan Zhuang and Sen Wang. **Hybrid Sparse Monocular Visual Odometry with Online Photometric Calibration**. In *International Journal of Robotics Research*
+* Dongting Luo, Yan Zhuang and Sen Wang. [Hybrid Sparse Monocular Visual Odometry with Online Photometric Calibration](https://journals.sagepub.com/eprint/XCSYWSEAMIVYTJCJFHQV/full). In *International Journal of Robotics Research*
 
 ## 2. Required Dependencies
 
