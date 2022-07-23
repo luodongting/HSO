@@ -72,7 +72,7 @@ This will create the executable `test_dataset` in the *bin* folder.
 5. Execute the script: ./tum_monoVO_batch.sh
 6. The result of keyframes trajectory will be saved in the *result* folder using TUM format.
 
-### Your Sequence
+### Your Own Sequence
 The minimal usage is
 	
 		cd test
