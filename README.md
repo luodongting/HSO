@@ -57,7 +57,7 @@ This will create the executable `test_dataset` in the *bin* folder.
 
 ### ICL-NUIM Dataset
 
-1. Download the dataset from http://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html and uncompress it.
+1. Download the dataset from http://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html (select ICL-NUIM PNGs) and uncompress it.
 2. Go to the *test* folder and open the script `icl-nuim_batch.sh`.
 3. Change **pathDatasetICL** variable to point to the directory where the dataset has been uncompressed and **sequece_name** variables to the name of each sequence in your computer.
 4. Execute the script: ./icl-nuim_batch.sh
